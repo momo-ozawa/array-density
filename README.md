@@ -1,6 +1,6 @@
 # _Array Density_
 
-##### _CIS 212 project:_  A quantitative experiment to see the performance of the Array vs the ArrayList data structure.
+##### _CIS 212 project:_A quantitative experiment to see the performance of the Array vs the ArrayList data structure.
 
 ## Setup
 Clone this git repository on your computer, then navigate to correct directory:
