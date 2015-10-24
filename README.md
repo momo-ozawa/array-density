@@ -1,4 +1,4 @@
-# Array Density
+# _Array Density_
 
 ##### _CIS 212 project:_  A quantitative experiment to see the performance of the Array vs the ArrayList data structure.
 
